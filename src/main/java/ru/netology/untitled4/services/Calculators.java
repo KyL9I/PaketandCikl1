@@ -1,6 +1,6 @@
 package ru.netology.untitled4.services;
 
-public class Calculaterest {
+public class Calculators {
 
     public int calculate(int income, int expenses, int threshold) {
         int count = 0;
